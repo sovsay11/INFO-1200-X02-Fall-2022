@@ -1,25 +1,33 @@
-<h1 align="center">Example Application</h1>
+<h1 align="center">INFO-1200-X02-Fall-2022</h1>
 
 <!--About The Project-->
 ## About The Project
-Description for the project
+This is a class repository for INFO-1200-X02 at UVU.
 
 ### Built With
 <ul>
-  <li>Add technologies and resources here</li>
+  <li>Git</li>
+  <li>GitHub</li>
 </ul>
 
 ## Getting Started
-Ensure that VS is already installed on your machine. Download a zipped copy of this code by going to the "<> Code" tab and expanding the green code button near the top right. Then press "Download ZIP".
+Ensure that Git and/or GitHub Desktop are already installed on your machine.
 
-Once that is done, unzip the folder using a program like <a href="https://www.7-zip.org/">7-Zip</a> and open the project in VS by launching the solution file (.sln) found in the folder.
+There are a number of ways you can clone a copy of this repository onto your local machine. Listed below are a couple of methods.
+
+Download a zipped copy of this code by going to the "<> Code" tab and expanding the green code button near the top right. Then press "Download ZIP". Once that is done, unzip the folder using a program like <a href="https://www.7-zip.org/">7-Zip</a> and open the project in VS by launching the solution file (.sln) found in the folder.
 
 Alternatively, you can also press the green code button and copy the HTTPS Git link. You can use that link to clone a local copy of this application to your device. See the "Installation" section below for more info on this process.
+
+You can also use GitHub Desktop and clone the repository from there.
 
 ### Prerequisites
 <ul>
   <li>
-    Add prerequisite technologies and resources here, links as well
+    Git
+  </li>
+  <li>
+    GitHub Desktop
   </li>
 </ul>
 
@@ -27,20 +35,12 @@ Alternatively, you can also press the green code button and copy the HTTPS Git l
 If you want to clone this repository for future use instead of downloading the zipped folder, you can do so by running the following command(s) using Git:
 
 ```sh
-git clone https://github.com/sovsay11/...
+git clone https://github.com/sovsay11/INFO-1200-X02-Fall-2022
 ```
     
 
 ## Usage
-Description of how to use the project and what it is for
-
-### Image(s) of the Project:
-<p align="center">
-<img src="" alt="Add images later" height="50%" width="50%"/>
-</p> 
+This project was created for the sole purpose of showing how Git and GitHub work.
 
 ## Contact
 Noah Say - sovannarasay11@gmail.com - <a href="https://www.linkedin.com/in/noah-say-0b6210187/">LinkedIn</a>
-
-## Resources
-List resource links here
