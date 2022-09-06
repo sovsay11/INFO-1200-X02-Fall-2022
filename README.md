@@ -2,7 +2,7 @@
 
 <!--About The Project-->
 ## About The Project
-This is a class repository for INFO-1200-X02 at UVU.
+This is a class repository for INFO-1200-X02 at UVU for students.
 
 ### Built With
 <ul>
